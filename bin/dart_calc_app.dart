@@ -37,21 +37,7 @@ double calcString(String text) {
 }
 
 void main() {
-  // String text = '(35+12)*239';
-  // String? text = stdin.readLineSync();
 
-  // // Printing the name
-
-  // print(calcString(text!));
-  // print(' Enter your favourite coding language : $text');
-
-  // // inputs string from the user
-
-  // // String? code_lang = stdin.readLineSync();
-
-  // // Printing the string
-
-  // print('\nGreat! $calcString is your favourite language!');
   final expressions = [
     '10*5+4/2-1',
     /*51*/
